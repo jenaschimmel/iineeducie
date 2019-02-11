@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aichiquu.wink-toolkit.org/sitemap.xml
